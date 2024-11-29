@@ -1,6 +1,8 @@
 # Projeto de Análise Musical de Tyler, the Creator
 
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3624bb1e-993f-4dad-ae10-d888836fab1e" alt="Tyler, the Creator Musical Analysis Project">
+</div>
 
 
 ## Visão Geral
